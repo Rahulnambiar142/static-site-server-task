@@ -1,4 +1,4 @@
-Project Link https://roadmap.sh/projects/static-site-server
+https://roadmap.sh/projects/static-site-server
 
 2.1 Install Nginx bash Copy Edit sudo apt update && sudo apt install nginx -y 2.2 Start & Enable Nginx bash Copy Edit sudo systemctl start nginx sudo systemctl enable nginx 2.3 Verify Installation Open http:// in a browser. You should see the Nginx welcome page.
 
